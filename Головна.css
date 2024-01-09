@@ -75,15 +75,15 @@
   font-style: normal;
   font-weight: 700;
   width: 615px;
-  margin: 320px auto 0;
+  margin: 0 auto 0;
 }
 
 .u-section-2 .u-text-2 {
   font-size: 3rem;
   font-weight: 700;
-  text-decoration: underline !important;
+  text-decoration: !important;
   width: 668px;
-  margin: 79px auto 60px;
+  margin: 0 auto 60px;
 }
 
 @media (max-width: 1199px) {
